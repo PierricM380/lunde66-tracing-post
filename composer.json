@@ -1,0 +1,15 @@
+{
+    "name": "lunedev66/tracingpost",
+    "autoload": {
+        "psr-4": {
+            "Lunedev66\\Tracingpost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PierricM380",
+            "email": "pierric.marye@wanadoo.fr"
+        }
+    ],
+    "require": {}
+}
