@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: LuneDev66 Tracing Post
-Plugin URI:
+Plugin URI: https://github.com/PierricM380/tracingpost
 Description: Grâce à cette extension vous pourrez, en un clic, dupliquer votre article et ainsi vous concentrer sur la construction de votre site ! Dans le menu "Général" accédez aux réglages pour choisir l'option qui vous correspond le mieux.
 Version: 1.0
 Author: LuneDev66
